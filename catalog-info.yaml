@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "doctest1"
+  description: "doctest1"
+  annotations:
+    github.com/project-slug: "karthick-sandbox/doctest1"
+    backstage.io/techdocs-ref: github:https://github.com/karthick-sandbox/doctest1
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "karthicksiva"

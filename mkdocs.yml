@@ -1,0 +1,8 @@
+site_name: "doctest1"
+site_description: "doctest1"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
