@@ -1,6 +1,8 @@
 ## doctest1
 
-doctest1
+doctest2
+
+
 
 ## Getting started
 
